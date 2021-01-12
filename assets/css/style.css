@@ -165,7 +165,7 @@ header{
 /*---------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before{
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 0.2);
     height: 120px;
 }
 
@@ -303,6 +303,7 @@ footer{
     border-left: 1px solid;
 }
 
+
 .timeline-item p{
     padding: 0;
     margin: 0;
@@ -336,6 +337,7 @@ footer{
 .history-items{
     margin-bottom: 30px;
 }
+
 
 /*------------------------Contact form*/
 
